@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+OpenAI. ChatGPT [Large language model]. Retrieved from https://chat.openai.com/ "Lab 3 Participation Exercise" 2025-09-19
 
 ## Verbal Collaboration
 
